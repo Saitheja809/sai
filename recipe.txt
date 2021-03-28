@@ -4,3 +4,6 @@ pasta
 dhal
 
 chicken
+beans
+
+pizza
